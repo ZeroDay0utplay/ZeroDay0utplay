@@ -57,4 +57,4 @@ Hashes = open("Hashes.txt", "w")
 
 for file in files:
     if check_file(file):
-        Hashes.write(file + " : " + hash_file(file))
+        Hashes.write(file + " : " + hash_file(file)+"\n")
