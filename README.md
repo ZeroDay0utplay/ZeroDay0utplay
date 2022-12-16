@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohamed Toumi
-- 👀 I’m interested in Technology
+- 👀 an IT enthausiast
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me hama.tm662@gmail.com
 
 <!---
