@@ -1,6 +1,6 @@
-### Hey, I'm Mohamed 🖐
-## IT enthausiast 🤓
-## Currently learning Data Science/DL 🤖
+<h1> Hey, I'm Mohamed 🖐</h1>
+<h3>IT enthausiast 🤓</h3>
+<h3>Currently learning Data Science/DL 🤖</h3>
 
 ## 🌐 Contact:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mouhamed.toumi.98837) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-toumi-38061323b) 
