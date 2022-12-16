@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZeroDay0utplay
+- 👋 Hi, I’m @Mohamed Toumi
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Electronics and Programming
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me 0day0utplay@gmail.com
+- 📫 How to reach me hama.tm662@gmail.com
 
 <!---
 ZeroDay0utplay/ZeroDay0utplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
