@@ -1,6 +1,7 @@
 <h1> Hey, I'm Mohamed 🖐</h1>
 <h3>• IT enthausiast 🤓</h3>
 <h3>• Currently learning Data Science/DL 🤖</h3>
+<h3>•How to Reach me : hama.tm662@gmail.com 📫</h3>
 
 
 # 💻 Technologies:
