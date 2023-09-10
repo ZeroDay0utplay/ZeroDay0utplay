@@ -1,6 +1,5 @@
 <h1> Hey, I'm Mohamed 🖐</h1>
-<h3>• IT enthausiast 🤓</h3>
-<h3>• Currently learning Data Science/ML 🤖</h3>
+<h3>• Science and Tech enthausiast 🤓</h3>
 <h3>• How to Reach me : mouhamed.toumi.me@gmail.com 📫</h3>
 
 
